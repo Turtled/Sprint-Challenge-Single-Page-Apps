@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: The client can update a specific part of the page without needing to re-download the entire page. The result is a much, much more responsive website with less loading wait times.
 
 ## Project Set Up
 
